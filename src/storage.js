@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
  
-import {smartstore} from 'react.force';
+import {smartstore} from 'react-native-force';
 
 import query from './query';
 

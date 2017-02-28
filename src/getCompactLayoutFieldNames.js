@@ -25,7 +25,7 @@
  */
 
 import trim from 'lodash.trim';
-import {forceClient} from 'react.force';
+import {forceClient} from 'react-native-force';
 
 module.exports = (opts) => {
   return new Promise(

@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
  
-import {forceClient} from 'react.force';
+import {forceClient} from 'react-native-force';
 
 import pull from 'lodash.pull';
 
